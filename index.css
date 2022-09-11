@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+}
+
+.container {
+	margin: 0 auto;
+	margin-top: 80px;
+    display: flex;
+    justify-content: space-around;
+	border: 4px solid white;
+    border-radius: 10px;
+	width: 40%;
+	background: #023047;
+	opacity: .8;
+	padding: 20px;
+}
+
+h3{
+    font-size: 50px;
+	color: white;
+    margin-top: 0;
+    margin-bottom: 20px;
+	font-family: arial;
+}
+	
+h2 {
+	font-size: 100px;
+	color: red;
+    margin-top: 0;
+    margin-bottom: 20px;
+	font-family:digital-clock-font;
+	border: 4px solid black;
+	background: black;
+	border-radius: 5px;
+	text-align: center;	
+	}
+
+button {
+    border: 1px solid white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+	color: navy;
+    color: white;
+	background: gray;
+	font-weight: bold;
+	font-size: 20px;
+    width: 75px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+body {
+    background: url("basketballbg.jpg");
+    background-size: cover;
+    text-align: center;
+
+}
